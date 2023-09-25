@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'skill_overflow.wsgi.application'
+WSGI_APPLICATION = 'skill_overflow.wsgi.app'
 
 
 # Database
